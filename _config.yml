@@ -2,7 +2,7 @@
 #baseUrl: http://localhost:4000
 
 # Production Url
-baseUrl: http://gamedevbr.github.io
+baseUrl: http://gamedevbr-podcast.github.io
 
 # Social Media
 linkGithub: https://github.com/gamedevbr-podcast
