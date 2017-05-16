@@ -2,7 +2,7 @@
 layout: post
 episode: //E001
 subject: PORTFÓLIO
-cover: content/cover/1400x1400.png
+cover: content/cover/capa-xbox.jpg
 title: //E001 PORTFÓLIO
 categories: podcast
 number: 1
