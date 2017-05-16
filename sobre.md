@@ -1,5 +1,5 @@
 ---
-layout: page_no_comments
+layout: page_no_comment
 title: Sobre
 ---
 
