@@ -95,6 +95,12 @@ body {
   letter-spacing: -1px;
 }
 
+.featurette-heading-post {
+  font-weight: 150;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
