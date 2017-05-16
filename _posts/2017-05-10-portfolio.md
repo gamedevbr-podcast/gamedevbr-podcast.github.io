@@ -1,6 +1,6 @@
 ---
 layout: post
-title: //EP001
+title: //E001
 subtitle: PORTFÓLIO
 cover: content/images/capa-podcast-001.jpg
 ---
