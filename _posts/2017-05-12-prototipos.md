@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ep 003
-subtitle: // PROTÓTIPOS
+title: //EP003
+subtitle: PROTÓTIPOS
 cover: content/images/capa-podcast-003.jpg
 ---
 
