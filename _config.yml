@@ -8,8 +8,8 @@ baseUrl: https://gamedevbr-podcast.github.io
 linkGithub: https://github.com/gamedevbr-podcast
 
 # Site Settings
-title: GameDevBr Podcast
-description: GameDevBr Podcast
+title: GAMEDEV BR
+description: Podcast
 email: gamedevbr.podcast@gmail.com
 paginate: 20
 permalink: /:title/
