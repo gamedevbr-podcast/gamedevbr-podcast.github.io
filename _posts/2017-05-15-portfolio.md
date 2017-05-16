@@ -11,4 +11,16 @@ length: 64256964
 mp3: https://s3.amazonaws.com/gamedevbr/podcasts/S1E1_Portfolio.mp3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique varius felis. Curabitur in porta lacus. Etiam fermentum lectus lorem, id consequat enim sagittis in. Cras imperdiet nibh massa, vitae eleifend odio aliquam et. Suspendisse potenti. Quisque congue nulla ligula. Nullam maximus at nisl non elementum. In hac habitasse platea dictumst. Vivamus porta diam venenatis luctus fermentum. Quisque semper erat sit amet nisi tempor dapibus. Pellentesque eu augue pellentesque, ornare lacus sed, pulvinar enim. Proin molestie nisl bibendum lectus iaculis, non rhoncus diam auctor. Mauris bibendum neque varius nulla euismod consequat. Vestibulum ut est enim.
+Neste episódio que é o nosso HelloWorld no mundo dos podcasts, falamos sobre o mítico protótipo do Nintendo Playstation e conversamos sobre a importância do portfólio para desenvolvedores e relembramos nossas experincias profissionais onde onde manter um portfólio fez a diferença. 
+
+**// Links relacionados**
+
+[That Nintendo PlayStation prototype has been restored to working condition](http://www.gamasutra.com/view/news/297550/That_Nintendo_PlayStation_prototype_has_been_restored_to_working_condition.php)
+
+[VIM adventures](https://vim-adventures.com/)
+
+[Página pessoal do Bruno Cicanci](http://gamedeveloper.com.br/)
+
+[Página pessoal do Gregório Benatti](http://gregoriobenatti.github.io)
+
+[Página pessoal do Márcio Freitas](http://designcodeplayrepeat.com/)
