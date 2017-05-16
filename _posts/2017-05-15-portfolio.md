@@ -2,7 +2,7 @@
 layout: post
 title: //E001
 subtitle: PORTFÓLIO
-cover: content/images/capa-podcast-001.jpg
+cover: content/cover/1400x1400.png
 categories: podcast
 number: 1
 duration: 33:28

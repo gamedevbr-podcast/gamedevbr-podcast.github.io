@@ -22,7 +22,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - Rakefile
+  - Rakefilele
   - README.md
 feed:
   path: rss.xml
@@ -33,11 +33,16 @@ author: GameDevBr
 email: gamedevbr.podcast@gmail.com
 podcast:
   title: GameDevBr
-  art: http://link/to/cover/art.png
-  category: Education
+  art: https://gamedevbr-podcast.github.io/content/cover/1400x1400.png
+  category: Games & Hobbies
   subcategories:
-  - Training
-  subtitle: The subtitle that shows in "Description" column on desktop iTunes
+  - Video Games
+  subtitle: >
+    Discussões técnicas, experiências profissionais, tecnologia e o dia-a-dia
+    na vida de 3 desenvolvedores de jogos brasileiros.
   summary: >
-    A long long description of your podcast
-    that a listener can read in Podcast View.
+    GameDevBR é uma conversa informal entre desenvolvedores de jogos
+    sobre temas relacionados a tecnologia, cultura pop e claro, programação de
+    jogos e a cena brasileira de games. Cada episódio procura trazer discuções
+    técnicas, experiências e pontos de vista relevantes tanto a veteranos desta
+    indústria quanto a novatos e entusiastas.
