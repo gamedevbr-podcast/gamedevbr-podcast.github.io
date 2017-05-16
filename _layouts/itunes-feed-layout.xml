@@ -5,7 +5,7 @@
     <link>{{ site.podcast.link }}</link>
     <itunes:author>{{ site.author }}</itunes:author>
     <copyright>{{ site.license }}</copyright>
-    <language>en-us</language>
+    <language>pt-br</language>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <itunes:category text="{{ site.podcast.category }}">
