@@ -6,7 +6,7 @@ cover: content/cover/1400x1400.png
 title: //E001 PORTFÓLIO
 categories: podcast
 number: 1
-duration: 33:28
+duration: "33:28"
 length: 64256964
 mp3: https://s3.amazonaws.com/gamedevbr/podcasts/S1E1_Portfolio.mp3
 ---
