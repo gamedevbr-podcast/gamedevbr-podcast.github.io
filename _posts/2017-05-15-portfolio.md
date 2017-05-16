@@ -13,7 +13,7 @@ mp3: https://s3.amazonaws.com/gamedevbr/podcasts/S1E1_Portfolio.mp3
 
 Neste episódio que é o nosso HelloWorld no mundo dos podcasts, falamos sobre o mítico protótipo do Nintendo Playstation e conversamos sobre a importância do portfólio para desenvolvedores e relembramos nossas experincias profissionais onde onde manter um portfólio fez a diferença. 
 
-**// Links relacionados**
+**//Links relacionados**
 
 [That Nintendo PlayStation prototype has been restored to working condition](http://www.gamasutra.com/view/news/297550/That_Nintendo_PlayStation_prototype_has_been_restored_to_working_condition.php)
 
