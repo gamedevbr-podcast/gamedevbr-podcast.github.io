@@ -15,12 +15,12 @@ Neste episódio que é o nosso HelloWorld no mundo dos podcasts, falamos sobre o
 
 **//Links relacionados**
 
-[That Nintendo PlayStation prototype has been restored to working condition](http://www.gamasutra.com/view/news/297550/That_Nintendo_PlayStation_prototype_has_been_restored_to_working_condition.php)
+<a href="http://www.gamasutra.com/view/news/297550/That_Nintendo_PlayStation_prototype_has_been_restored_to_working_condition.php" target="_blank">That Nintendo PlayStation prototype has been restored to working condition</a>
 
-[VIM adventures](https://vim-adventures.com/)
+<a href="https://vim-adventures.com/" target="_blank">VIM Adventures</a>
 
-[Página pessoal do Bruno Cicanci](http://gamedeveloper.com.br/)
+<a href="http://gamedeveloper.com.br/" target="_blank">Página pessoal do Bruno Cicanci</a>
 
-[Página pessoal do Gregório Benatti](http://gregoriobenatti.github.io)
+<a href="http://gregoriobenatti.github.io" target="_blank">Página pessoal do Gregório Benatti</a>
 
-[Página pessoal do Márcio Freitas](http://designcodeplayrepeat.com/)
+<a href="http://designcodeplayrepeat.com/" target="_blank">Página pessoal do Márcio Freitas</a>
