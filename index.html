@@ -7,7 +7,13 @@ title: Home
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  {% include posts.html %}
+  {% assign currentmod = forloop.index0 | modulo:2 %}
+
+  {% if currentmod == 0 or forloop.first %}
+    {% include posts_left.html %}
+  {% else %}
+    {% include posts_right.html %}
+  {% endif %}
 {% endfor %}
 
 <!-- /END THE FEATURETTES -->

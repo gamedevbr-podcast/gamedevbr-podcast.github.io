@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Podcast 001
-subtitle: Portfólio
+title: Ep 001
+subtitle: // PORTFÓLIO
 cover: content/images/capa-podcast-001.jpg
 ---
 

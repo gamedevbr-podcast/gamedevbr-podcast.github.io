@@ -1,11 +1,7 @@
----
-layout: default
----
-
 <div class="row featurette">
   <div class="col-md-7">
-    <h2 class="featurette-heading">{{ page.title }} <span class="text-muted">{{ page.subtitle }}</span></h2>
-    <p>{{ content }}</p>
+    <h2 class="featurette-heading"><a href="{{ post.url }}">{{ post.title }} <span class="text-muted">{{ post.subtitle }}</span></a></h2>
+    <p class="lead">{{ post.excerpt }}</p>
   </div>
   <div class="col-md-5">
     <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="{{ page.title }}" src="{{ site.baseurl }}/{{ page.cover }}" data-holder-rendered="true">
@@ -13,7 +9,3 @@ layout: default
 </div>
 
 <hr class="featurette-divider">
-
-{% include comments.html %}
-
-<br/>
