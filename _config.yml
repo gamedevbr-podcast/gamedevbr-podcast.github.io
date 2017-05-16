@@ -26,3 +26,18 @@ exclude:
   - README.md
 feed:
   path: rss.xml
+
+# Podcast Settings
+licence: CC-BY-CA
+author: GameDevBr
+email: gamedevbr.podcast@gmail.com
+podcast:
+  title: GameDevBr
+  art: http://link/to/cover/art.png
+  category: Education
+  subcategories:
+  - Training
+  subtitle: The subtitle that shows in "Description" column on desktop iTunes
+  summary: >
+    A long long description of your podcast
+    that a listener can read in Podcast View.
