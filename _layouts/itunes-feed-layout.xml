@@ -26,7 +26,7 @@
     {% for post in site.categories.podcast %}
     <item>
       <title>{{ post.number }} &mdash; {{ post.title }}</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:author>{{ site.author }}</itunes:author>
       <itunes:duration>{{ post.duration }}</itunes:duration>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
