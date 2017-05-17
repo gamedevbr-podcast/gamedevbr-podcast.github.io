@@ -13,7 +13,7 @@
       <itunes:category text="{{ subcategory }}"/>
       {% endfor %}
     </itunes:category>
-    <itunes:explicit>Yes</itunes:explicit>
+    <itunes:explicit>No</itunes:explicit>
     <itunes:image href="{{ site.podcast.art }}"/>
     <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
     <description>{{ site.podcast.summary }}</description>
