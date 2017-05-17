@@ -29,10 +29,10 @@ feed:
 
 # Podcast Settings
 licence: CC-BY-CA
-author: GameDevBr
+author: GAMEDEV BR
 email: gamedevbr.podcast@gmail.com
 podcast:
-  title: GameDevBr
+  title: GAMEDEV BR
   link: https://gamedevbr-podcast.github.io
   art: https://gamedevbr-podcast.github.io/content/cover/capa-ps4.jpg
   category: Games & Hobbies
