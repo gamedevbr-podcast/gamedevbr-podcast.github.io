@@ -9,10 +9,14 @@ title: Home
 {% for post in paginator.posts %}
   {% assign currentmod = forloop.index0 | modulo:2 %}
 
-  {% if currentmod == 0 or forloop.first %}
-    {% include posts_left.html %}
+  {% if post.featured == 1 %}
+    {% include posts_center.html %}
   {% else %}
-    {% include posts_right.html %}
+    {% if currentmod == 0 or forloop.first %}
+      {% include posts_left.html %}
+    {% else %}
+      {% include posts_right.html %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
